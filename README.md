@@ -1,10 +1,10 @@
-# Hi, I'm Gayatri 👋
+# Hi, I'm Gayatri !
 
-💻 Computer Science Student  
-🤖 Interested in AI/ML, Python, RAG, and Local AI  
-🚀 Contributor at GSSoC 2026  
+ Computer Science Student  
+ Interested in AI/ML, Python, RAG, and Local AI  
+ Contributor at GSSoC 2026  
 
-## 🏆 GSSoC 2026 Badges
+##  GSSoC 2026 Badges
 
 ## GSSoC 2026 Badges
 
@@ -17,14 +17,14 @@
 ![Code Warrior] <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/4be8f213-ddc2-495c-a792-45331ecc1f31" />
 
 
-## 📌 Projects
+##  Projects
 - Jarvis AI Voice Assistant
 - Local AI Agent using Ollama
 
-## 🌱 Currently Learning
+##  Currently Learning
 - AI Engineering
 - Open Source Contribution
 - LangChain & RAG
 
-## 📫 Connect With Me
+##  Connect With Me
 - LinkedIn:https://www.linkedin.com/in/gayatri-mohite-3186173bb/
