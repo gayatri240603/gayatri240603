@@ -8,7 +8,7 @@
 
 ### Microsoft AI Skills Fest
 
-[![Microsoft AI Skills Fest](badge.png)](https://learn.microsoft.com/api/achievements/share/en-us/gayumohite-3361/U7X4SEN3?sharingId=1AB69DE6FBF55DF2)
+<img width="407" height="252" alt="badge5" src="https://github.com/user-attachments/assets/be9d98be-0b7d-4ddf-9df6-781892fed37a" />
 
 Verified Badge: Microsoft AI Skills Fest
 
