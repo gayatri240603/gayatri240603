@@ -4,7 +4,7 @@
  Interested in AI/ML, Python, RAG, and Local AI  
  Contributor at GSSoC 2026  
 
-## Certifications & Badges
+## Badges
 
 ### Microsoft AI Skills Fest
 
