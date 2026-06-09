@@ -10,7 +10,6 @@
 
 <img width="180" height="190" alt="image" src="https://github.com/user-attachments/assets/056ea60c-00ca-4716-94a3-97d19312cf8a" />
 
-<img width="407" height="252" alt="badge5" src="https://github.com/user-attachments/assets/be9d98be-0b7d-4ddf-9df6-781892fed37a" />
 
 Verified Badge: Microsoft AI Skills Fest
 
