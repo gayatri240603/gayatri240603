@@ -4,6 +4,14 @@
  Interested in AI/ML, Python, RAG, and Local AI  
  Contributor at GSSoC 2026  
 
+## Certifications & Badges
+
+### Microsoft AI Skills Fest
+
+[![Microsoft AI Skills Fest](badge.png)](https://learn.microsoft.com/api/achievements/share/en-us/gayumohite-3361/U7X4SEN3?sharingId=1AB69DE6FBF55DF2)
+
+Verified Badge: Microsoft AI Skills Fest
+
 ##  GSSoC 2026 Badges
 
 ## GSSoC 2026 Badges
